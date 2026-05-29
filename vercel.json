@@ -3,7 +3,7 @@
     {
       "source": "/(.*)",
       "destination": "https://joshibrom.dev",
-      "permanent": true
+      "statusCode": 301
     }
   ]
 }
